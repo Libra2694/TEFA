@@ -1,9 +1,9 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/87377917?s=200&v=4" width="200" alt="404NFID Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://telegra.ph/file/4f2df50ec8d0bd2559290.png" width="200" alt="404NFID Logo"></a></p>
 
 
-## Laravel Surat Menyurat v1
+## Aplikasi Arsip Dokumen Online by TRPL Semester 2/2023
 
-Web app untuk mengelola surat masuk, keluar, serta disposisinya.
+Web app untuk mengelola Dokumen secara online.
 
 ## Features / Fitur
 
@@ -161,9 +161,6 @@ Untuk menggantinya, buka file `config/app.php` kemudian ganti nilai pada `locale
 Untuk mengganti zona waktu silakan buka file `config/app.php`
 dan ganti nilai pada `timezone` sesuai dengan keinginan Anda.
 Silakan merujuk ke [dokumentasi php](https://www.php.net/manual/en/timezones.php) untuk nilai zona waktu yang bisa digunakan.
-
-## Demonstration / Demo
-Link video untuk proyek ini bisa dilihat di [YouTube](https://www.youtube.com/watch?v=dyatVEGavxo).
 
 ## Other / Lainnya
 Proyek ini menggunakan admin template [Sneat](https://github.com/themeselection/sneat-html-admin-template-free)
