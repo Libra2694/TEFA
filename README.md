@@ -209,7 +209,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 <p>https://sociabuzz.com/libra_id</p>
-Project Link: [hhttps://github.com/Libra2694/TEFA.git](https://github.com/Libra2694/TEFA.git)
+Project Link: https://github.com/Libra2694/TEFA.git
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
