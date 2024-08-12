@@ -86,10 +86,10 @@
 ## About The Project
 
 <p align="center">
-  <img src="https://telegra.ph/file/b79160cbe5cf077da3675.png" /> Home Admin</p>
+  <img src="https://telegra.ph/file/813c3470357132a87ac54.png" /> Home Admin</p>
 </br>
 <p align="center">
-  <img src="https://telegra.ph/file/0066a72acb955efa6be79.png" /> Home User</p>
+  <img src="https://telegra.ph/file/41f31e514abf0d4d93519.png" /> Home User</p>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
