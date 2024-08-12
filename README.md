@@ -190,11 +190,15 @@ Untuk login aplikasi silakan masukkan surel dan kata sandi berikut
 
 | Surel      | admin@gmail.com |
 |------------|-----------------|
-| Kata Sandi | 1               |
+| Kata Sandi | admin           |
 
-| Surel      | ari@gmail.com   |
+| Surel      | user@gmail.com  |
 |------------|-----------------|
-| Kata Sandi | 1               |
+| Kata Sandi | user            |
+
+| Surel      | user2@gmail.com |
+|------------|-----------------|
+| Kata Sandi | user            |
 
 
 <!-- LICENSE -->
